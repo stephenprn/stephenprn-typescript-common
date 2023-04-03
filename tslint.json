@@ -1,0 +1,12 @@
+{
+    "extends": [
+        "tslint:recommended",
+        "tslint-config-prettier"
+    ],
+    "rules": {
+      "variable-name": [
+        true,
+        "allow-trailing-underscore"
+      ]
+    }
+}
